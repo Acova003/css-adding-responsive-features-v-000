@@ -3,3 +3,14 @@
   #social { position: absolute; width: auto; top: 82px; right: 4px;}
 }
 
+.column {
+  width: 100%;
+  float: none;
+}
+ 
+@media only screen and (min-width: 900px) {
+  .column {
+    width: 33.333%;
+    float: left;
+  }
+}
