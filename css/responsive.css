@@ -26,4 +26,9 @@
     position: absolute;
     top: 0px;
   }
+  .col-3 p {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+  }
 }
