@@ -12,10 +12,6 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .column {
-    width: 33.333%;
-    float: left;
-  }
   body {
     font-size: 85%;
   }
